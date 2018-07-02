@@ -1,0 +1,14 @@
+{
+  "name": "bowling-kata",
+  "version": "1.0.0",
+  "description": "Bowling Kata",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rafał Korecki",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.2.0"
+  }
+}
